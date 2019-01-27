@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/media/doubledev/New Volume/source/rpg_one_solution/rpg_one_solution.Domain/rpg_one_solution.Domain.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
