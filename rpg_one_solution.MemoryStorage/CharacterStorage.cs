@@ -2,7 +2,7 @@
 
 namespace rpg_one_solution.MemoryStorage
 {
-    public class Class1
+    public class CharacterStorage
     {
     }
 }
